@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/LibraryClass/Librayr/main.csproj",
+      "projectUniqueName": "/workspaces/LibraryClass/main.csproj",
       "projectName": "main",
-      "projectPath": "/workspaces/LibraryClass/Librayr/main.csproj",
+      "projectPath": "/workspaces/LibraryClass/main.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/LibraryClass/Librayr/obj/",
+      "outputPath": "/workspaces/LibraryClass/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R9Dnko/wSZRfrt6yEk0FTFp+5AufgGUcmhwdi5bQQD8P8ZBrsBH3Y0TziWG5ju6A+5MJEwXsy1FXvzzjVa/szg==",
+  "dgSpecHash": "Nq2gNaIONVCCs5eWQwtIaQ7f+fIEuLgp1OBKN/uGUKU85G4WxTnKPwTs4ZJXIoBvacVEfVRzy3Tv+LNAUxWYFQ==",
   "success": true,
-  "projectFilePath": "/workspaces/LibraryClass/Librayr/main.csproj",
+  "projectFilePath": "/workspaces/LibraryClass/main.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",

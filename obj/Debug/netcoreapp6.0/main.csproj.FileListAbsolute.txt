@@ -1,0 +1,29 @@
+C:/Users/mrtur/OneDrive/Рабочий стол/Librayr/bin/Debug/netcoreapp6.0/main.exe
+C:/Users/mrtur/OneDrive/Рабочий стол/Librayr/bin/Debug/netcoreapp6.0/main.deps.json
+C:/Users/mrtur/OneDrive/Рабочий стол/Librayr/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+C:/Users/mrtur/OneDrive/Рабочий стол/Librayr/bin/Debug/netcoreapp6.0/main.dll
+C:/Users/mrtur/OneDrive/Рабочий стол/Librayr/bin/Debug/netcoreapp6.0/main.pdb
+C:/Users/mrtur/OneDrive/Рабочий стол/Librayr/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mrtur/OneDrive/Рабочий стол/Librayr/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+C:/Users/mrtur/OneDrive/Рабочий стол/Librayr/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+C:/Users/mrtur/OneDrive/Рабочий стол/Librayr/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+C:/Users/mrtur/OneDrive/Рабочий стол/Librayr/obj/Debug/netcoreapp6.0/main.dll
+C:/Users/mrtur/OneDrive/Рабочий стол/Librayr/obj/Debug/netcoreapp6.0/refint/main.dll
+C:/Users/mrtur/OneDrive/Рабочий стол/Librayr/obj/Debug/netcoreapp6.0/main.pdb
+C:/Users/mrtur/OneDrive/Рабочий стол/Librayr/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
+C:/Users/mrtur/OneDrive/Рабочий стол/Librayr/obj/Debug/netcoreapp6.0/ref/main.dll
+/workspaces/LibraryClass/bin/Debug/netcoreapp6.0/main
+/workspaces/LibraryClass/bin/Debug/netcoreapp6.0/main.deps.json
+/workspaces/LibraryClass/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/workspaces/LibraryClass/bin/Debug/netcoreapp6.0/main.dll
+/workspaces/LibraryClass/bin/Debug/netcoreapp6.0/main.pdb
+/workspaces/LibraryClass/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/LibraryClass/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/workspaces/LibraryClass/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/workspaces/LibraryClass/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/workspaces/LibraryClass/obj/Debug/netcoreapp6.0/main.sourcelink.json
+/workspaces/LibraryClass/obj/Debug/netcoreapp6.0/main.dll
+/workspaces/LibraryClass/obj/Debug/netcoreapp6.0/refint/main.dll
+/workspaces/LibraryClass/obj/Debug/netcoreapp6.0/main.pdb
+/workspaces/LibraryClass/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
+/workspaces/LibraryClass/obj/Debug/netcoreapp6.0/ref/main.dll
